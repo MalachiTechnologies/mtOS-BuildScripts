@@ -6,4 +6,4 @@ https://sourceware.org/elfutils/ftp/elfutils-latest.tar.bz2
 https://www.lua.org/ftp/lua-5.4.6.tar.gz
 https://www.linuxfromscratch.org/patches/blfs/svn/lua-5.4.6-shared_library-1.patch
 https://ftp.osuosl.org/pub/rpm/releases/rpm-4.19.x/rpm-4.19.1.tar.bz2
-# http://download.oracle.com/berkeley-db/db-6.1.19.tar.gz // YOU WILL NEED TO DOWNLOAD THIS FILE MANUALLY AND SCP IT TO THE BUILD SYSTEM DUE TO ORACLE'S PREDATORY PRACTICES ON THE FOSS COMMUNITY
+
