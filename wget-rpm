@@ -1,9 +1,9 @@
-https://ftp.mozilla.org/pub/mozilla.org/nspr/releases/v4.10.8/src/nspr-4.10.8.tar.gz
-https://ftp.mozilla.org/pub/mozilla.org/security/nss/releases/NSS_3_17_4_RTM/src/nss-3.17.4.tar.gz
-http://www.linuxfromscratch.org/patches/blfs/7.7/nss-3.17.4-standalone-1.patch
+https://ftp.mozilla.org/pub/nspr/releases/v4.19/src/nspr-4.19.tar.gz
+https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_96_1_RTM/src/nss-3.96.1.tar.gz
+https://www.linuxfromscratch.org/patches/blfs/svn/nss-3.96.1-standalone-1.patch
 http://rpm5.org/files/popt/popt-1.16.tar.gz
-https://fedorahosted.org/releases/e/l/elfutils/0.161/elfutils-0.161.tar.bz2
-http://www.lua.org/ftp/lua-5.2.3.tar.gz
-http://www.linuxfromscratch.org/patches/blfs/7.5/lua-5.2.3-shared_library-1.patch
-http://rpm.org/releases/rpm-4.11.x/rpm-4.11.2.tar.bz2
-http://download.oracle.com/berkeley-db/db-6.1.19.tar.gz
+https://sourceware.org/elfutils/ftp/elfutils-latest.tar.bz2
+https://www.lua.org/ftp/lua-5.4.6.tar.gz
+https://www.linuxfromscratch.org/patches/blfs/svn/lua-5.4.6-shared_library-1.patch
+https://ftp.osuosl.org/pub/rpm/releases/rpm-4.19.x/rpm-4.19.1.tar.bz2
+# http://download.oracle.com/berkeley-db/db-6.1.19.tar.gz // YOU WILL NEED TO DOWNLOAD THIS FILE MANUALLY AND SCP IT TO THE BUILD SYSTEM DUE TO ORACLE'S PREDATORY PRACTICES ON THE FOSS COMMUNITY
